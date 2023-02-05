@@ -1,0 +1,12 @@
+Assignment 1 (GIT) ( Document : Word format: with screenshots)
+Tasks
+----------
+1: Install and configure Git on Local Machine.
+Synopsis: Demonstrate how to install and configure Git on Local Machine 
+(https://git-scm.com/downloads). 
+Choose all the default settings and location.
+
+2: 5 files need to be commited(touch, nano, add,commit) to local git repository.
+3: Create one branch(feature1) with one new file (6th file)
+4: Merge feature1 to master branch
+
